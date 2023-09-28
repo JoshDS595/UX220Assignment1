@@ -9,8 +9,8 @@
 <br />
 <p><b>Citations</b><p>
 
-<p>Lian, S., Sun, X., Zhou, Z., Fan, C., Niu, G., & Liu, Q. (2018). Social networking site addiction and undergraduate students’ irrational procrastination: The mediating role of social networking site fatigue and the moderating role of effortful control. PloS One, 13(12), e0208162–e0208162. https://doi.org/10.1371/journal.pone.0208162
+<p>Lian, S., Sun, X., Zhou, Z., Fan, C., Niu, G., & Liu, Q. (2018). Social networking site addiction and undergraduate students’ irrational procrastination: The mediating role of social networking site fatigue and the moderating role of effortful control. PloS One, 13(12), e0208162–e0208162. <a href="https://doi.org/10.1371/journal.pone.0208162">https://doi.org/10.1371/journal.pone.0208162<a>
 <p>
 
-<p>Wang, Y., Kitterlin-Lynch, M., & Williams, J. (2018). Hospitality Cooperative Education: What are the Benefits for Industry Partners? Journal of Hospitality & Tourism Education, 30(2), 127–133. https://doi.org/10.1080/10963758.2018.1436970
+<p>Wang, Y., Kitterlin-Lynch, M., & Williams, J. (2018). Hospitality Cooperative Education: What are the Benefits for Industry Partners? Journal of Hospitality & Tourism Education, 30(2), 127–133. <a href="https://doi.org/10.1080/10963758.2018.1436970">https://doi.org/10.1080/10963758.2018.1436970<a>
 <p>
